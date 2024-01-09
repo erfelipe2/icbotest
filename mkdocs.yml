@@ -14,6 +14,7 @@ theme:
 nav:
   - Home: index.md
   - Specimen: specimen.md
+  - Outro menu: outro.md
 
 markdown_extensions:
   - admonition
